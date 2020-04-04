@@ -1,3 +1,4 @@
 # electron
 aplicación utilizando electron js
-version dev
+version production
+es necesario instalar electron, electron-reload y electron-packager
